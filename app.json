@@ -1,0 +1,12 @@
+{
+  "name": "clima",
+  "displayName": "clima",
+  "expo": {
+    "name": "clima",
+    "slug": "clima",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
